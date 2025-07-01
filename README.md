@@ -97,8 +97,8 @@ Trained 3 models:
 
 ```bash
 # Clone the repo
-git clone https://github.com/lalit-kumar-2097/telco-churn-analysis.git
+git clone https://github.com/lalit-kumar-2097/telco-churn.git
 cd telco-churn-analysis
 
-# Open the homepage in browser
-open index.html
+# Open the homepage in the browser
+Open index.html
