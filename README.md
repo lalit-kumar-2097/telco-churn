@@ -2,7 +2,7 @@
 
 > **Business Goal:** Understand *why customers leave telecom services* and provide *data-backed strategies* to reduce churn using SQL, Python, ML, and Tableau – all packaged into a deployable web dashboard.
 
-![Churn Dashboard Screenshot](static/img/churn_dashboard.png)
+![Churn Dashboard Screenshot](static/img/telco_dashboard.png)
 
 ---
 
