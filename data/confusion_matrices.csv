@@ -1,0 +1,13 @@
+Model,Metric,Value
+Logistic Regression,TN,915
+Logistic Regression,FP,118
+Logistic Regression,FN,182
+Logistic Regression,TP,192
+Random Forest,TN,931
+Random Forest,FP,102
+Random Forest,FN,187
+Random Forest,TP,187
+CatBoost,TN,921
+CatBoost,FP,112
+CatBoost,FN,189
+CatBoost,TP,185
